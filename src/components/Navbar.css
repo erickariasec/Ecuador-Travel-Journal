@@ -1,0 +1,21 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 15px;
+    color: #fff;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.navbar .logo {
+    width: 50px;
+    height: auto;
+}
+
+.navbar .title {
+    text-align: center;
+}
