@@ -82,3 +82,9 @@
         width: 374px;
     }
 }
+
+@media (max-width: 374px) {
+    .separator {
+        width: 360px;
+    }
+}
