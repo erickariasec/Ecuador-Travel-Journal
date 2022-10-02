@@ -64,3 +64,21 @@
     width: 470px;
     border: 1px solid #F5F5F5;
 }
+
+@media (max-width: 469px) {
+    .separator {
+        width: 440px;
+    }
+}
+
+@media (max-width: 440px) {
+    .separator {
+        width: 410px;
+    }
+}
+
+@media (max-width: 410px) {
+    .separator {
+        width: 375px;
+    }
+}
